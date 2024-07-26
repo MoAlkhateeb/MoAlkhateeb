@@ -1,16 +1,32 @@
-## Hi there 👋
+# Mohammed Alkhateeb
 
-<!--
-**MoAlkhateeb/MoAlkhateeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Software Engineer | 🚀 Automation Enthusiast | 🌐 Full-Stack Developer
 
-Here are some ideas to get you started:
+Hello! I'm Mohammed, a passionate software engineer with a love for learning and problem-solving. I specialize in backend development, automation, and scripting, with a growing interest in full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Languages:** C/C++, Python, JavaScript, TypeScript, SQL
+- **Frameworks:** Django, DjangoRESTFramework (DRF), Flask
+- **Frontend:** ReactJS, HTMX
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Selenium, BeautifulSoup, Docker
+- **Deployment:** Cloudflare Pages, Self-Hosting (DDNS, Port Forwarding)
+
+### 🌟 Highlights
+
+- 🎓 Computer Engineering student at Cairo University
+- 🔧 Open-Source Contributor to Oh My Zsh (171k+ Stars)
+- 💼 Freelance experience in image processing, PDF data extraction, and SEO automation
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+
+- LinkedIn: [moalkhateeb](https://linkedin.com/in/moalkhateeb)
+- Portfolio: [moalkhateeb.pages.dev](https://moalkhateeb.pages.dev)
+- Email: mo.hany.alkhateeb@gmail.com
+
+---
+
+⭐️ From [MoAlkhateeb](https://github.com/MoAlkhateeb)
