@@ -26,7 +26,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - LinkedIn: [moalkhateeb](https://linkedin.com/in/moalkhateeb)
 - Portfolio: [moalkhateeb.pages.dev](https://moalkhateeb.pages.dev)
 - Email: mo.hany.alkhateeb@gmail.com
-
----
-
-⭐️ From [MoAlkhateeb](https://github.com/MoAlkhateeb)
